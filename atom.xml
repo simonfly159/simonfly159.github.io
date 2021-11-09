@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-11-06T14:22:37.529Z</updated>
+  <updated>2021-11-09T13:55:01.720Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,26 +17,12 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>我的第一篇博客文章</title>
-    <link href="http://example.com/2021/11/06/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/"/>
-    <id>http://example.com/2021/11/06/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/</id>
-    <published>2021-11-06T14:20:16.000Z</published>
-    <updated>2021-11-06T14:22:37.529Z</updated>
+    <title>对悬绳在运动状态下形变的思考</title>
+    <link href="http://example.com/2021/11/09/%E5%AF%B9%E6%82%AC%E7%BB%B3%E5%9C%A8%E8%BF%90%E5%8A%A8%E7%8A%B6%E6%80%81%E4%B8%8B%E5%BD%A2%E5%8F%98%E7%9A%84%E6%80%9D%E8%80%83/"/>
+    <id>http://example.com/2021/11/09/%E5%AF%B9%E6%82%AC%E7%BB%B3%E5%9C%A8%E8%BF%90%E5%8A%A8%E7%8A%B6%E6%80%81%E4%B8%8B%E5%BD%A2%E5%8F%98%E7%9A%84%E6%80%9D%E8%80%83/</id>
+    <published>2021-11-09T13:55:01.000Z</published>
+    <updated>2021-11-09T13:55:01.720Z</updated>
     
-    <content type="html"><![CDATA[<p>第一章</p><p>内容</p><hr><p>第二章</p><p>内容</p><hr><p>参考文献</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;第一章&lt;/p&gt;
-&lt;p&gt;内容&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;第二章&lt;/p&gt;
-&lt;p&gt;内容&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;参考文献&lt;/p&gt;
-</summary>
-      
     
     
     
