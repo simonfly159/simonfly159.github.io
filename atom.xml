@@ -3,11 +3,11 @@
   <title>Simon&#39;s 博客</title>
   
   <subtitle>顺其自然</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://simonfly159.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
-  <updated>2021-11-09T13:55:01.720Z</updated>
-  <id>http://example.com/</id>
+  <link href="http://simonfly159.github.io/"/>
+  <updated>2021-11-11T12:42:54.955Z</updated>
+  <id>http://simonfly159.github.io/</id>
   
   <author>
     <name>simonfly</name>
@@ -17,12 +17,19 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>对悬绳在运动状态下形变的思考</title>
-    <link href="http://example.com/2021/11/09/%E5%AF%B9%E6%82%AC%E7%BB%B3%E5%9C%A8%E8%BF%90%E5%8A%A8%E7%8A%B6%E6%80%81%E4%B8%8B%E5%BD%A2%E5%8F%98%E7%9A%84%E6%80%9D%E8%80%83/"/>
-    <id>http://example.com/2021/11/09/%E5%AF%B9%E6%82%AC%E7%BB%B3%E5%9C%A8%E8%BF%90%E5%8A%A8%E7%8A%B6%E6%80%81%E4%B8%8B%E5%BD%A2%E5%8F%98%E7%9A%84%E6%80%9D%E8%80%83/</id>
-    <published>2021-11-09T13:55:01.000Z</published>
-    <updated>2021-11-09T13:55:01.720Z</updated>
+    <title>对悬绳在运动状态下形状的思考</title>
+    <link href="http://simonfly159.github.io/2021/11/11/%E5%AF%B9%E6%82%AC%E7%BB%B3%E5%9C%A8%E8%BF%90%E5%8A%A8%E7%8A%B6%E6%80%81%E4%B8%8B%E5%BD%A2%E5%8F%98%E7%9A%84%E6%80%9D%E8%80%83/"/>
+    <id>http://simonfly159.github.io/2021/11/11/%E5%AF%B9%E6%82%AC%E7%BB%B3%E5%9C%A8%E8%BF%90%E5%8A%A8%E7%8A%B6%E6%80%81%E4%B8%8B%E5%BD%A2%E5%8F%98%E7%9A%84%E6%80%9D%E8%80%83/</id>
+    <published>2021-11-11T10:32:11.000Z</published>
+    <updated>2021-11-11T12:42:54.955Z</updated>
     
+    <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p><strong>从真理元素的频道上看到了一个有意思的问题，所以进行了一些思考。</strong><br><a href="https://www.youtube.com/watch?v=q-_7y0WUnW4">https://www.youtube.com/watch?v=q-_7y0WUnW4</a> <em>（视频链接）</em><br><img src="/2021/11/11/%E5%AF%B9%E6%82%AC%E7%BB%B3%E5%9C%A8%E8%BF%90%E5%8A%A8%E7%8A%B6%E6%80%81%E4%B8%8B%E5%BD%A2%E5%8F%98%E7%9A%84%E6%80%9D%E8%80%83/83401.jpg" alt="题目" title="题目"></p><h1 id="问题转化"><a href="#问题转化" class="headerlink" title="问题转化"></a>问题转化</h1><p><strong>由于绳子是质量均匀的，所以对此问可以先把问题转换一下：</strong><br><em><strong>在一架向右匀速飞行的直升飞机上，系有质量相同和体积的若干物块（物块间的绳子长度相同且绳子的质量和绳子所受阻力不计），如图</strong></em><br><img src="/2021/11/11/%E5%AF%B9%E6%82%AC%E7%BB%B3%E5%9C%A8%E8%BF%90%E5%8A%A8%E7%8A%B6%E6%80%81%E4%B8%8B%E5%BD%A2%E5%8F%98%E7%9A%84%E6%80%9D%E8%80%83/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20211111194904.jpg" alt="图1" title="图1"><br><strong>通过增加物块数量，减少物块间绳子的长度可以向质量均匀的绳子的情况逼近。</strong></p><h1 id="猜想"><a href="#猜想" class="headerlink" title="猜想"></a>猜想</h1><p><strong>若无空气阻力，在匀速状态下各物块显然为平衡状态，即保持竖直方向静止。但因为直升机在均匀空气中匀速向右运动，由公式</strong><br>$F = \frac{1}{2}C\rho SV^2$<br><strong>可知物体受到向左的空气阻力，且所有物块的阻力相同。则猜想在只有一个物块的情况为</strong><br><img src="/2021/11/11/%E5%AF%B9%E6%82%AC%E7%BB%B3%E5%9C%A8%E8%BF%90%E5%8A%A8%E7%8A%B6%E6%80%81%E4%B8%8B%E5%BD%A2%E5%8F%98%E7%9A%84%E6%80%9D%E8%80%83/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20211111194857.jpg" alt="图2" title="图2"><br><strong>有两个物块的情况为</strong><br><img src="/2021/11/11/%E5%AF%B9%E6%82%AC%E7%BB%B3%E5%9C%A8%E8%BF%90%E5%8A%A8%E7%8A%B6%E6%80%81%E4%B8%8B%E5%BD%A2%E5%8F%98%E7%9A%84%E6%80%9D%E8%80%83/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20211111194841.jpg" alt="图3" title="图3"><br><strong>故认为当物块足够多绳子足够短时为一条直线，</strong></p><h2 id="即认为均匀绳子的状态为一条直线。"><a href="#即认为均匀绳子的状态为一条直线。" class="headerlink" title="即认为均匀绳子的状态为一条直线。"></a>即认为均匀绳子的状态为一条直线。</h2><h1 id="计算验证"><a href="#计算验证" class="headerlink" title="计算验证"></a>计算验证</h1><p><strong>假设有两个物块，设上面的物块为物块一下面的物块为物块二，物块一上面的绳子与竖直方向的夹角为$\alpha$，物块二上面的绳子与竖直方向的夹角为$\beta$</strong><br><strong>由于直升机向右匀速运动且空气阻力一定（$F = \frac{1}{2}C\rho SV^2$），故在稳定时物块也匀速向右运动。</strong><br><img src="/2021/11/11/%E5%AF%B9%E6%82%AC%E7%BB%B3%E5%9C%A8%E8%BF%90%E5%8A%A8%E7%8A%B6%E6%80%81%E4%B8%8B%E5%BD%A2%E5%8F%98%E7%9A%84%E6%80%9D%E8%80%83/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20211111201840.jpg" alt="图4" title="图4"><br><img src="/2021/11/11/%E5%AF%B9%E6%82%AC%E7%BB%B3%E5%9C%A8%E8%BF%90%E5%8A%A8%E7%8A%B6%E6%80%81%E4%B8%8B%E5%BD%A2%E5%8F%98%E7%9A%84%E6%80%9D%E8%80%83/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20211111201834.jpg" alt="图5" title="图5"><br><strong>由图（物块二）可的$\tan\beta=\frac{f}{G}$</strong><br><strong>由于$T$为$f G$的合力，所以作用在物块一上可以以分力的形式作用，如图</strong><br><img src="/2021/11/11/%E5%AF%B9%E6%82%AC%E7%BB%B3%E5%9C%A8%E8%BF%90%E5%8A%A8%E7%8A%B6%E6%80%81%E4%B8%8B%E5%BD%A2%E5%8F%98%E7%9A%84%E6%80%9D%E8%80%83/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20211111203429.jpg" alt="图6" title="图6"><br><strong>故</strong>$\tan\alpha=\frac{2f}{2G}$<br><strong>易得</strong>$\alpha=\beta$<br><strong>故两物块在一条直线上。</strong><br><strong>经验证，此结论在三个、四个物块时任然成立。</strong><br><strong>当物块足够多，绳子足够短时就可以把此结论推广到均匀绳子上，</strong></p><h2 id="即绳子为一条直线。"><a href="#即绳子为一条直线。" class="headerlink" title="即绳子为一条直线。"></a>即绳子为一条直线。</h2><h1 id="后记"><a href="#后记" class="headerlink" title="后记"></a>后记</h1><p><strong>以上为在看视频前的思考，看完视频后我的结论确实是正确的。</strong><br><strong>但视频中还对尾端加重物或减速伞的情况进行了讲解。</strong></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;从真理元素的频道上看到了一个有意思的问题，所以进行了一些思考。&lt;/strong&gt;&lt;br&gt;&lt;a href=&quot;https://w</summary>
+      
     
     
     
@@ -31,8 +38,8 @@
   
   <entry>
     <title>我的第一篇博客文章</title>
-    <link href="http://example.com/2021/11/06/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/"/>
-    <id>http://example.com/2021/11/06/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/</id>
+    <link href="http://simonfly159.github.io/2021/11/06/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/"/>
+    <id>http://simonfly159.github.io/2021/11/06/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/</id>
     <published>2021-11-06T14:20:16.000Z</published>
     <updated>2021-11-06T14:22:37.529Z</updated>
     
@@ -58,8 +65,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2021/11/06/hello-world/"/>
-    <id>http://example.com/2021/11/06/hello-world/</id>
+    <link href="http://simonfly159.github.io/2021/11/06/hello-world/"/>
+    <id>http://simonfly159.github.io/2021/11/06/hello-world/</id>
     <published>2021-11-06T14:05:33.523Z</published>
     <updated>1985-10-26T08:15:00.000Z</updated>
     
